@@ -1,4 +1,4 @@
-const text = "test";
-const output = `ttttt${text}`;
+const text = "testingwefwe";
+const output = `tt${text}`;
 
 document.body.innerHTML = output;
